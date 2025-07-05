@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there! I'm Kulith Renuja</h1>
-<h3 align="center"> Software Engineer | Creative Technologist </h3>
+<h3 align="center"> Software Engineer | Full Stack Developer </h3>
 
 ---
 
